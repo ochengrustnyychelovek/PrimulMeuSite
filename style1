@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Josefin Sans', sans-serif;
+    box-sizing: border-box;
+}
+.hero{
+    height: 100vh;
+    width: 100%;
+    background-image:url(close-up-of-blossoming-rose-flower-royalty-free-image-1580853844.jpg);
+    background-size: cover;
+    background-position: center;
+}
